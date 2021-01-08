@@ -7,6 +7,7 @@ namespace REPO_PJS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int x = 3;
         }
     }
 }
