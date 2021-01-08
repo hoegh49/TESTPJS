@@ -8,6 +8,7 @@ namespace REPO_PJS
         {
             Console.WriteLine("Hello World!");
             int x = 3;
+            x += 1;
         }
     }
 }
